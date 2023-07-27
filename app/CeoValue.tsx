@@ -11,17 +11,16 @@ function CeoValue() {
             <Image
               src={eu}
               alt={"plaholder"}
-              className="rounded-full border-3 border-gray-400"
+              className="rounded-full border-3   border-gray-400"
               width={200}
               height={200}
             />
           </div>
           <div className="p-5">
-            <h1 className="font-bold text-gray-700 text-4xl">"</h1>
             <span className="text-gray-600 font-semibold">
-              " Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
               Accusantium qui ex, aspernatur nulla assumenda amet similique
-              provident repudiandae nemo libero quas."
+              provident repudiandae nemo libero quas.
             </span>
             <h1 className="font-extrabold text-xl text-gray-800 ">
               Rogerio Silva
